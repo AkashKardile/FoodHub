@@ -1,4 +1,4 @@
-Shop Application
+FoodHub
 
 ## Overview
 
@@ -61,11 +61,8 @@ Ensure you have the following installed:
 **Project Structure**
 
     backend/
-
     ├── data/         # JSON files
-
     ├── public/       # Images
-
     ├── app.js        # Express.js application setup
 
 
@@ -73,17 +70,11 @@ Ensure you have the following installed:
     frontend/
     ├── src/
     │   ├── assets/   # Static assets
-
     │   ├── components/ # Reusable components
-
     │   ├── hooks/    # Custom hooks
-
     │   ├── utils/    # Utility functions
-
     │   ├── store/    # State management
-
     │   ├── App.js    # Main application component
-
     │   └── index.js  # Entry point for React
 
 ## Contributing
