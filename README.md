@@ -36,9 +36,9 @@ Ensure you have the following installed:
 
 2.  **Install dependencies**:
 
-    Using npm: npm install
-
-    Using yarn: yarn install
+        Using npm: npm install
+    
+        Using yarn: yarn install
 
     ###### Running the Application
 
